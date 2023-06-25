@@ -1,0 +1,45 @@
+.container
+{
+	border:1px solid lightgray;
+	border-radius:5px;
+	padding:25px;
+	display: flex;
+    flex-direction: column;
+	gap:25px;
+
+}
+.bar
+{
+	background-color:#d3d3d32e;
+	height:20px;
+	width:100%;
+	border-radius:5px;
+}
+.green
+{
+	background-color:#189006bf;
+	height:20px;
+	width:25%;
+	border-radius:5px;
+}
+.skyblue
+{
+	background-color:#57b8dfd9;
+	height:20px;
+	width:50%;
+	border-radius:5px;
+}
+.yellow
+{
+	background-color:#f4f40d;
+	height:20px;
+	width:75%;
+	border-radius:5px;
+}
+.red
+{
+	background-color:#fc0909fc;
+	height:20px;
+	width:100%;
+	border-radius:5px;
+}
